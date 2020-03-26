@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: maxvoltar.photo
-email: tim@maxvoltar.be
+title: RvRoo’s Photo Stream
+email: hi@rvroo.nl
 author:
-  name: Tim Van Damme
-  email: tim@maxvoltar.be #optional
-  website: https://maxvoltar.com
+  name: Roy van Rooijen
+  email: hi@rvroo.nl #optional
+  website: https://rvroo.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  @maxvoltar's minimalistic, self-hosted photo stream.
+  @RvRoo's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maxvoltar.photo/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maxvoltar
-github_username: maxvoltar
-instagram_username: maxvoltar
+url: "https://photos.rvrooo.nl/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rvroo
+github_username: rvroo
+instagram_username: rvroo
 
 # Build settings
 plugins:
